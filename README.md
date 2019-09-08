@@ -1,4 +1,4 @@
-# ui-template
+# Ride-Share
 
 ## Project setup
 ```
