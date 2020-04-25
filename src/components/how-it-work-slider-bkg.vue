@@ -211,7 +211,7 @@ export default {
     width: 100%;
     height: auto;
     z-index: -1;
-    background: url('https://react-next-landing.redq.io/_next/static/images/mockup_bg-cfe83c340662ef4070b1cf292cd17855.svg');
+    background: url('https://react-next-landing.redq.io/_next/static/images/mockup_bg-ee507b5cf8eafa1e10f47ea4b87c0743.svg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
