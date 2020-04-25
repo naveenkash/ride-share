@@ -1609,7 +1609,7 @@
             </div>
           </div>
           <div class="drv-drive-img">
-            <img src="../assets\man-drv (1).png" alt />
+            <img src="../assets/man-drv (1).png" alt />
           </div>
         </div>
       </div>
